@@ -107,6 +107,9 @@ header {
     padding: 40px;
 }
 
+.wrapper.from-box.login {
+    display: none;
+}
 
 .wrapper.icon-close {
     position: absolute;
