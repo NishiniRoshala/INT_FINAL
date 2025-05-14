@@ -156,6 +156,15 @@ header {
     position: absolute;
     right: 8px;
     font-size: 1.2em;
-    color: #162938;
+    color: crimson;
     line-height: 57px;
+}
+
+.remember-forgot {
+    font-size: .9em;
+    color: crimson;
+    font-weight: 500;
+    margin: -15px 0 15px;
+    display: flex;
+    justify-content: space-between;
 }
