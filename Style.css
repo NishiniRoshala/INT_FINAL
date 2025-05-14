@@ -101,3 +101,8 @@ header {
     transform: scale(0);
     transition: transform .5s ease, height .2s ease;
 }
+
+.wrapper.form-box {
+    width: 100%;
+    padding: 40px;
+}
