@@ -178,3 +178,7 @@ header {
     color: deeppink;
     text-decoration: none;
 }
+
+.remember-forgot a:hover {
+    text-decoration: underline;
+}
