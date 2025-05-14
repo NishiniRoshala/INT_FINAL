@@ -35,3 +35,17 @@ header {
     font-weight: 500;
     margin-left: 40px;
 }
+
+.navigation.btnlogin-popup {
+    width: 130px;
+    height: 50px;
+    border: 2px solid #fff;
+    outline: none;
+    border-radius:6px;
+    cursor: pointer;
+    font-size: 1.1em;
+    color: #ff253a;
+    font-weight: 500;
+    background: transparent;
+    margin-left: 40px;
+}
