@@ -142,3 +142,11 @@ header {
     outline: none;
 
 }
+
+.input-box.icon {
+    position: absolute;
+    right: 8px;
+    font-size: 1.2em;
+    color: #162938;
+    line-height: 57px;
+}
