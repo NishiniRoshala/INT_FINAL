@@ -7,3 +7,16 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    background: #ff253a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 99;
+}
