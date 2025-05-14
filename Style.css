@@ -14,7 +14,7 @@ header {
     left: 0;
     width: 100%;
     padding: 20px 100px;
-    background: #ff253a;
+    background:crimson;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -44,7 +44,7 @@ header {
     border-radius:6px;
     cursor: pointer;
     font-size: 1.1em;
-    color: #ff253a;
+    color: crimson;
     font-weight: 500;
     background: transparent;
     margin-left: 40px;
