@@ -106,6 +106,10 @@ header {
     transform: scale(1);
 }
 
+.wrapper.active {
+    height: 520px;
+}
+
 .wrapper.form-box {
     width: 100%;
     padding: 40px;
