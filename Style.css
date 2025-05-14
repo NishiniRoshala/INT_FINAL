@@ -203,3 +203,9 @@ header {
     font-weight: 500;
     margin: 25px 0 10px;
 }
+
+.login-register p a {
+    color: deeppink;
+    text-decoration: none;
+    font-weight: 600;
+}
