@@ -48,4 +48,5 @@ header {
     font-weight: 500;
     background: transparent;
     margin-left: 40px;
+    transition: 0.5s;
 }
