@@ -112,7 +112,8 @@ header {
 }
 
 .wrapper.from-box.login {
-    /*display: none;*/
+    transition: transform .18s ease;
+    transform: translateX(0);
 }
 
 .wrapper.active .form-box.login {
