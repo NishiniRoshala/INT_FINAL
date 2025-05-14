@@ -97,7 +97,7 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    /*overflow: hidden;*/
+    overflow: hidden;
     /*transform: scale(0);*/
     /*transition: transform .5s ease, height .2s ease;*/
 }
@@ -120,9 +120,9 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-bottom-left-radius: 20px;
-    cursor: pointer;
-    z-index: 1;
+    /*border-bottom-left-radius: 20px;*/
+    /*cursor: pointer;*/
+    /*z-index: 1;*/
 }
 
 
