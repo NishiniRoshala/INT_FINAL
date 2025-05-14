@@ -173,3 +173,8 @@ header {
     accent-color: deeppink;
     margin-right: 3px;
 }
+
+.remember-forgot a {
+    color: deeppink;
+    text-decoration: none;
+}
