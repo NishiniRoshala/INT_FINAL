@@ -111,6 +111,11 @@ header {
     display: none;
 }
 
+.wrapper.from-box.register {
+    display: none;
+}
+
+
 .wrapper.icon-close {
     position: absolute;
     top: 0;
