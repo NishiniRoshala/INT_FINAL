@@ -115,6 +115,11 @@ header {
     /*display: none;*/
 }
 
+.wrapper.active .form-box.login {
+    transition: none;
+    transform: translateX(-400px);
+}
+
 .wrapper.from-box.register {
     position: absolute;
     transform:  translateX(400px);
