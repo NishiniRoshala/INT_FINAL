@@ -133,8 +133,9 @@ header {
 }
 
 .wrapper.from-box.login {
-    transition: transform .18s ease;
-    transform: translateX(0);
+    display: none;
+    /*transition: transform .18s ease;*/
+    /*transform: translateX(0);*/
 }
 
 .wrapper.active .form-box.login {
