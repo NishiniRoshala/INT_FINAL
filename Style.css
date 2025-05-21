@@ -414,3 +414,29 @@ h2 {
     color: white;
 }
 
+
+.section {
+    display: none;
+    width: 100%;
+}
+.section.active {
+    display: block;
+}
+.nav-link.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .box {
+        padding: 1.5rem;
+    }
+    .box h1, .box h2 {
+        font-size: 2rem;
+    }
+    .start-btn, .login-btn {
+        font-size: 1rem;
+        padding: .5rem 1.5rem;
+    }
+}
+
