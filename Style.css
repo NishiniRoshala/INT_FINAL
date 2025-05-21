@@ -414,7 +414,14 @@ h2 {
     color: white;
 }
 
-
+@media (max-width: 576px) {
+    .box {
+        padding: 1rem;
+    }
+    .box h1, .box h2 {
+        font-size: 1.8rem;
+    }
+}
 .section {
     display: none;
     width: 100%;
