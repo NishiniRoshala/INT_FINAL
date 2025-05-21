@@ -427,6 +427,11 @@ h2 {
     border-radius: 5px;
     cursor: pointer;
 }
+
+.btn-add:hover {
+    background-color: #0069d9;
+    
+}
 .btn-update {
     background-color:deeppink;
     color: black;
