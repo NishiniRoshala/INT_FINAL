@@ -344,10 +344,73 @@ header {
     padding: 2.5rem;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-
+    text-align: center;
 }
 
+.box h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    text-shadow: 1px 1px 2px #aaa;
+}
+h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    text-shadow: 1px 1px 2px #aaa;
+}
+.box h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+    color: red;
+    text-shadow: 1px 1px 3px #444;
+}
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+    color: red;
+    text-shadow: 1px 1px 3px #444;
+}
+.start-btn, .login-btn {
+    background-color: #e6007e;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    padding: .75rem 2rem;
+    font-size: 1.1rem;
+    margin-top: 1.5rem;
+}
+.footer-text {
+    margin-top: 1.5rem;
+    font-size: .9rem;
+    text-align: center;
+    color: #333;
+}
 
-
-
+/* -------------------------------------Customer section------------------------------ */
+.customer-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 20px auto;
+}
+.highlight-bar {
+    background-color: #f8f9fa;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.btn-add {
+    background-color: #28a745;
+    color: white;
+}
+.btn-update {
+    background-color: #ffc107;
+    color: black;
+}
+.btn-delete {
+    background-color: #dc3545;
+    color: white;
+}
+.btn-view-all {
+    background-color: #17a2b8;
+    color: white;
+}
 
