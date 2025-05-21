@@ -448,9 +448,21 @@ h2 {
 }
 
 .btn-delete {
-    background-color: #dc3545;
+    /*background-color: #dc3545;*/
+    /*color: white;*/
+
+    background-color: #dc3545; /* Bootstrap red */
     color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
 }
+
+.btn-delete:hover {
+    background-color: #c82333;
+}
+
 .btn-view-all {
     background-color: #17a2b8;
     color: white;
